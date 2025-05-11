@@ -2,12 +2,11 @@
 Interactive Power BI dashboard to visualize mobile phone sales performance by city, model, and payment method. Built using DAX, Power Query, and real-world sales KPIs.
 
 #  Dashboard Preview
-
-[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)]
+[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)
 [![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/MTD%20Dashboard.png?raw=true)
-[![Dashboard Screenshot]]
-# Project Highlights
+[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Same%20Period%20Last%20Year.png?raw=true)
 
+# Project Highlights
 •	Built a comprehensive Power BI dashboard to visualize mobile sales performance across cities, brands, and models.
 •	Displayed key KPIs such as Total Sales (₹65M), Quantity Sold (2K), and Average Price (₹40K).
 •	Used DAX to create dynamic measures and Power Query for data cleaning and shaping.
@@ -28,7 +27,6 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 •	Empowered business teams to make quick, data-informed decisions based on clear visuals.
 
 # Why This Project Stands Out
-
 •	End-to-End Solution: Covers the full data pipeline — from cleaning raw sales data to building a professional, interactive dashboard.
 •	Business-Driven Insights: Designed to support real-world decision-making with clear KPIs, regional breakdowns, and product-level analysis.
 •	Smart Use of Power BI: Demonstrates strong command of Power Query and DAX to build custom measures and automate updates.
@@ -41,26 +39,16 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 •	DAX (Data Analysis Expressions)  
 •	Excel (as data source)
 
-#  Files Included
-•	`Mobile_Sales_Dashboard.pbit` –
-•	`Dashboard.png` – 
-
+# Files Included
+•	`Mobile_Sales_Dashboard.pbit` – Power BI template file containing full visuals and logic
+•	`Dashboard.png` – Screenshot of the dashboard shown above
+•	`README.md` – This documentation file
 
 #  How to Use
 1. Clone or download this repository.
 2. Open the `.pbit` file in Power BI Desktop.
 3. Load the data (or connect your own source if needed).
 4. Use the filters and visuals to explore mobile sales trends.
-
-
-## 📁 Files Included
-
-- `Mobile_Sales_Dashboard.pbit` – Power BI Template File  
-  (–https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)
-
----
-
-
 
 #  Feedback
 Thank you for checking out this project!  
@@ -69,5 +57,5 @@ If you found it useful or have suggestions:
 •	Star this repository to support the project  
 •	Open an issue if you notice any improvements or bugs  
 •	Feel free to fork and use it in your own way  
-•	Connect with me on [LinkedIn]) to share your feedback or ask questions
+•	Connect with me on [LinkedIn](https://www.linkedin.com/in/anuradha-99213324a/) to share your feedback or ask questions
 
