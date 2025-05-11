@@ -3,7 +3,7 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 
 #  Dashboard Preview
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot]()
 
 # Project Highlights
 
