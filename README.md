@@ -3,8 +3,9 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 
 #  Dashboard Preview
 
-[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)(https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)
-
+[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)]
+[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/MTD%20Dashboard.png?raw=true)
+[![Dashboard Screenshot]]
 # Project Highlights
 
 •	Built a comprehensive Power BI dashboard to visualize mobile sales performance across cities, brands, and models.
