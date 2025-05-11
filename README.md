@@ -48,6 +48,15 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 4. Use the filters and visuals to explore mobile sales trends.
 
 
+## 📁 Files Included
+
+- `Mobile_Sales_Dashboard.pbit` – Power BI Template File  
+- `Dashboard.png` – Screenshot of the report
+
+---
+
+
+
 #  Feedback
 Thank you for checking out this project!  
 If you found it useful or have suggestions:
