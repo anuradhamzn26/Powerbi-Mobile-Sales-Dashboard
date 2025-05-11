@@ -1,5 +1,9 @@
-# Powerbi-Mobile-Sales-Dashboard 
+# Mobile Sales Dashboard
 Interactive Power BI dashboard to visualize mobile phone sales performance by city, model, and payment method. Built using DAX, Power Query, and real-world sales KPIs.
+
+#  Dashboard Preview
+
+![Dashboard Screenshot](Dashboard.png)
 
 # Project Highlights
 
@@ -51,7 +55,7 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 ## 📁 Files Included
 
 - `Mobile_Sales_Dashboard.pbit` – Power BI Template File  
-- `Dashboard.png` – Screenshot of the report
+  (–https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)
 
 ---
 
