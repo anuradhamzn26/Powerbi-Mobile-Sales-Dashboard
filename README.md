@@ -1,5 +1,5 @@
 # Powerbi-Mobile-Sales-Dashboard
-"Interactive Power BI dashboard analyzing mobile phone sales data by product, region, and time. Utilized Power Query for data cleaning and DAX for key metrics like revenue and units sold. Includes dynamic visuals and filters to support data-driven decision-making."
+Interactive Power BI dashboard to visualize mobile phone sales performance by city, model, and payment method. Built using DAX, Power Query, and real-world sales KPIs.
 
 # Key Insights & Features
 
