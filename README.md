@@ -3,7 +3,7 @@ Interactive Power BI dashboard to visualize mobile phone sales performance by ci
 
 #  Dashboard Preview
 
-![Dashboard Screenshot]()
+[![Dashboard Screenshot]](https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)(https://github.com/anuradhamzn26/Powerbi-Mobile-Sales-Dashboard/blob/main/Dashboard.png?raw=true)
 
 # Project Highlights
 
